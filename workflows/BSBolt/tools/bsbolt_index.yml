@@ -1,0 +1,4 @@
+ref:
+  class: File
+  path: ../genome/chr22.fa
+output_name: BSBolt_IDX

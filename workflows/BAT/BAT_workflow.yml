@@ -1,0 +1,17 @@
+ref:
+    class: File
+    path: ./genome/chr22.fa
+read1:
+    - class: File
+      path: ../../fastq/1_1.fq
+read2:
+    - class: File
+      path: ../../fastq/1_2.fq
+prefix_db: 
+    class: File
+    path: ./genome/chr22.fa
+threads: 4
+output_name: test
+header:
+    class: File
+    path: ./patch/header_chr

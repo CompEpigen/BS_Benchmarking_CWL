@@ -1,0 +1,5 @@
+ref:
+   class: File
+   path: ../genome/chr22.fa
+output_name: test2
+
